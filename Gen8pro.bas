@@ -1,5 +1,6 @@
 '_______________________________________________________________________________
-'Universal Algorithm with redundancy eliminator for 8 follower bot.
+'Universal Algorithm with auto-learn route for 8 follower bot.
+'This bot traces an '8' path on a hash '#' like route and determines the correct turns after completing it once.
 'MCU:                            ATmega8
 'pin config sensor as follows:   [ D4-D5-D6-D7-B0-B1-B2-B3 ]
 'motor config as follows         [ LEFT D0-B4; RIGHT D2-D3 ]
